@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-**Date:** 04.08.2024  
-**Register Number:** 24900323  
-**Name:** Aathi Sakthi S  
+**Date:** 01.10.2024  
+**Register Number:** 24013576
+**Name:** JAYARAJ B
 
 ## Problem Title
 **Development of e-Portal for Facilitating Case Management Hearing of Various Types of Cases**
